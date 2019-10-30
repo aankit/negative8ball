@@ -17,7 +17,7 @@ var predictions = [
   "Very Doubtful",
   "Without a Doubt, No",
   "Definitely, No",
-  "What is the Monetary Value"
+  "What is the Monetary Value",
   "Ask someone else"
 ];
 
